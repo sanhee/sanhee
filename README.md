@@ -1,8 +1,8 @@
-###  👋
+<p align="center">안녕하세요! 👋</center>
+<p align="center"><center><img src="https://i.imgur.com/pwP1M5o.gif" width="100" height="100"></center></
 
-<center><img src="https://i.imgur.com/pwP1M5o.gif" width="200" height="200"></center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanhee%2Fsanhee&count_bg=%2379C83D&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=hit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanhee&count_bg=%2379C83D&title_bg=%23555555&icon=pinboard.svg&icon_color=%23E7E7E7&title=hit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
